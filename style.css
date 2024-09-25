@@ -1,4 +1,4 @@
-/* Change the color of the text from blue to red */
+/* Change the color of the text from blue to aqua */
 p {
-    color: red;
+    color:aqua (255, 0, 174);
 }
